@@ -1,0 +1,15 @@
+C:\Aplications\BandasAlura\bin\Debug\net6.0\BandasAlura.exe
+C:\Aplications\BandasAlura\bin\Debug\net6.0\BandasAlura.deps.json
+C:\Aplications\BandasAlura\bin\Debug\net6.0\BandasAlura.runtimeconfig.json
+C:\Aplications\BandasAlura\bin\Debug\net6.0\BandasAlura.dll
+C:\Aplications\BandasAlura\bin\Debug\net6.0\BandasAlura.pdb
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.csproj.AssemblyReference.cache
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.AssemblyInfoInputs.cache
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.AssemblyInfo.cs
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.csproj.CoreCompileInputs.cache
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.dll
+C:\Aplications\BandasAlura\obj\Debug\net6.0\refint\BandasAlura.dll
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.pdb
+C:\Aplications\BandasAlura\obj\Debug\net6.0\BandasAlura.genruntimeconfig.cache
+C:\Aplications\BandasAlura\obj\Debug\net6.0\ref\BandasAlura.dll
